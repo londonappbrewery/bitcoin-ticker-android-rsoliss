@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
 
-    android:textSize="30sp"
-    android:textStyle="bold"
     android:gravity="start"
-    android:textColor="@color/black"
+    android:padding="10dip"
     android:text="@string/label_error_text"
-    android:padding="10dip" />
+    android:textColor="@color/black"
+    android:textSize="30sp"
+    android:textStyle="bold"/>
